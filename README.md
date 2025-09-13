@@ -4,9 +4,13 @@ Project title:
 Deep Neural Network for Flood Detection and Impact Assessment: CNN and Autoencoder Integration
 
 Student name: Asaduzzaman
+
 Student id: 4142378
+
 Qualification: MSc in Applied Artificial Intelligence
+
 Supervisor: Francis Babayemi
+
 Submission date: May 2024
 
 
